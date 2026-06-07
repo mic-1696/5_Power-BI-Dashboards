@@ -1,8 +1,8 @@
 # Data Stress Dashboard w/ Power BI
 
-![alt text](/Imagenes/Power%20BI%20Dashboard%20Stress.png)
+![alt text](/Imagenes/Power%20BI%20Dashboard%20Stress%202.png)
 
-[View interactive Dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTAxNDJmY2YtYzNlYy00YTFiLThjNjAtZmI3NmY2Y2Q5NmRmIiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9)
+[View interactive Dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNGY1YjgyMGQtODgwOC00NDM5LThiYzktNWY5NzhjZmMzYzFmIiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9)
 
 ## Introduction
 
@@ -10,22 +10,28 @@ This dashboard was created by **Michael Chaves**, Chemical Engineer and Data Eng
 
 ## Dashboard Overview
 
-This Power BI dashboard provides a visual analysis of stress factors, current stress levels, and stress scores based on a survey. The objective of this report is to identify the primary drivers of stress and quantify its impact on individuals.
+This Power BI project presents a comprehensive analysis of mental health and professional well-being, specifically focusing on Stress levels and the prevalence of Burnout within the Costa Rican context. By aggregating data from multiple survey dimensions, this dashboard provides a holistic view of how demographic factors, education, and labor situations correlate with psychological strain.
 
 ### Key Insights
 
-**Primary Sources of Stress**: The analysis shows that Work (19.05%) and the combination of Economic Situation and Work (14.29%) are the most cited sources of stress, highlighting the dominant role that professional and financial factors play in the respondents' well-being.
+**Burnout Prevalence**: The study indicates that 58.33% of respondents have experienced Burnout in the last 12 months, signaling a significant issue within the surveyed population.
 
-**Current Stress Levels**: A horizontal bar chart illustrates the distribution of current stress levels (on a scale of 1 to 10). It reveals a significant portion of respondents reporting high stress levels, with a notable concentration at levels 9 and 8.
+**Demographic & Educational Profile**: * The largest participant group falls within the 31 to 40-year-old range.
 
-**Stress Score Frequency**: The histogram displays the distribution of individual Stress Scores. It identifies a clear peak in the frequency of specific scores (around 23), helping to visualize the most common intensity of stress experienced by the surveyed group.
+The cohort is highly educated, with 41.67% holding a complete university degree and 27.78% having completed postgraduate studies.
+
+The vast majority of participants are Salaried Employees (83.33%).
+
+**Stress Drivers & Intensity**: Complementing the Burnout data, the stress analysis reveals that Work (19.05%) and the combination of Economic Situation and Work (14.29%) are the primary catalysts for stress. Current stress levels show a worrying concentration at the higher end of the scale (levels 8 and 9), with a typical stress score clustering around 23.
 
 ### Features
 
-**Interactive Visualization**: Allows for a quick understanding of how different life domains (work, family, health, economy) correlate with perceived stress.
+**Cross-Factor Correlation**: Visualizes the relationship between labor status, education, and the likelihood of experiencing professional exhaustion.
 
-**Data Aggregation**: Summarizes survey responses from participants to provide a snapshot of collective mental well-being.
+**Trend Identification**: Highlights that high-stress benchmarks and Burnout are not isolated incidents but recurring patterns across the professional landscape of Costa Rica.
 
 ## Conclusion
 
-In summary, this Stress Dashboard serves as a vital tool for understanding the landscape of mental well-being among the surveyed group. By synthesizing the primary sources of pressure—predominantly linked to professional and financial stability—with quantifiable stress intensity metrics, the dashboard transforms raw survey data into actionable insights. These findings underscore the prevalence of high stress levels within the cohort, providing a clear foundation for developing targeted initiatives or support systems to address the most significant stressors identified.
+The findings from this dashboard underscore a *critical relationship between professional environment and mental health*. With nearly **60% of participants reporting recent experiences with Burnout** and a clear majority identifying work and economic factors as primary stressors, it is evident that workplace conditions are a major driver of psychological distress.
+
+The data suggests that the burden of stress is particularly high among the salaried workforce, who are managing intense professional demands. Ultimately, this dashboard serves as a vital diagnostic tool, highlighting the urgent need for organizational and societal interventions aimed at reducing stress intensity and preventing long-term professional exhaustion in the Costa Rican labor market.
