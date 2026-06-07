@@ -1,37 +1,31 @@
-# Data Stress Dashboard w/ Power BI
+# Estudio Burnout Dashboard w/ Power BI
 
 ![alt text](/Imagenes/Power%20BI%20Dashboard%20Stress%202.png)
 
 [View interactive Dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNGY1YjgyMGQtODgwOC00NDM5LThiYzktNWY5NzhjZmMzYzFmIiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9)
 
-## Introduction
+## Introducción
 
-This dashboard was created by **Michael Chaves**, Chemical Engineer and Data Engineer, to address *burnout among Latin American workers*. The project uses a real-world dataset obtained from a Tally.so form to provide an easy-to-use interface for exploring stress-related trends and insights.
+Este Dshboard ha sido creado por **Michael Chaves**, ingeniero químico e ingeniero de datos, para abordar el *agotamiento profesional entre los trabajadores latinoamericanos*. El proyecto utiliza un conjunto de datos reales obtenidos a partir de un formulario para ofrecer una interfaz fácil de usar que permita explorar tendencias y conclusiones relacionadas con el estrés.
 
-## Dashboard Overview
+## Descripción general del panel
 
-This Power BI project presents a comprehensive analysis of mental health and professional well-being, specifically focusing on Stress levels and the prevalence of Burnout within the Costa Rican context. By aggregating data from multiple survey dimensions, this dashboard provides a holistic view of how demographic factors, education, and labor situations correlate with psychological strain.
+Este proyecto de Power BI presenta un análisis exhaustivo de la salud mental y el bienestar profesional, centrándose específicamente en los niveles de estrés y la prevalencia del agotamiento en el contexto costarricense. Al agregar datos de múltiples dimensiones de la encuesta, este panel ofrece una visión holística de cómo los factores demográficos, la educación y las situaciones laborales se correlacionan con la tensión psicológica.
 
-### Key Insights
+### Conclusiones clave
 
-**Burnout Prevalence**: The study indicates that 58.33% of respondents have experienced Burnout in the last 12 months, signaling a significant issue within the surveyed population.
+**Prevalencia del agotamiento**: El estudio indica que el 58,33 % de los encuestados ha experimentado agotamiento en los últimos 12 meses, lo que señala un problema significativo dentro de la población encuestada.
 
-**Demographic & Educational Profile**: * The largest participant group falls within the 31 to 40-year-old range.
+**Perfil demográfico y educativo**: El grupo más numeroso de participantes se encuentra en el rango de edad de 31 a 40 años.
 
-The cohort is highly educated, with 41.67% holding a complete university degree and 27.78% having completed postgraduate studies.
+La cohorte tiene un alto nivel educativo: el 41,67 % posee una licenciatura y el 27,78 % ha completado estudios de posgrado.
 
-The vast majority of participants are Salaried Employees (83.33%).
+La gran mayoría de los participantes son empleados asalariados (83,33 %).
 
-**Stress Drivers & Intensity**: Complementing the Burnout data, the stress analysis reveals that Work (19.05%) and the combination of Economic Situation and Work (14.29%) are the primary catalysts for stress. Current stress levels show a worrying concentration at the higher end of the scale (levels 8 and 9), with a typical stress score clustering around 23.
+**Factores y intensidad del estrés**: Como complemento a los datos sobre el agotamiento, el análisis del estrés revela que el trabajo (19,05 %) y la combinación de la situación económica y el trabajo (14,29 %) son los principales catalizadores del estrés. Los niveles actuales de estrés muestran una concentración preocupante en el extremo superior.
 
-### Features
+## Conclusiones
 
-**Cross-Factor Correlation**: Visualizes the relationship between labor status, education, and the likelihood of experiencing professional exhaustion.
+Los resultados de este estudio ponen de relieve la relación fundamental que existe entre el entorno profesional y la salud mental. Dado que casi el 60 % de los participantes ha declarado haber sufrido recientemente síndrome de burnout y que una clara mayoría señala los factores laborales y económicos como principales factores de estrés, resulta evidente que las condiciones del lugar de trabajo son un factor determinante del malestar psicológico.
 
-**Trend Identification**: Highlights that high-stress benchmarks and Burnout are not isolated incidents but recurring patterns across the professional landscape of Costa Rica.
-
-## Conclusion
-
-The findings from this dashboard underscore a *critical relationship between professional environment and mental health*. With nearly **60% of participants reporting recent experiences with Burnout** and a clear majority identifying work and economic factors as primary stressors, it is evident that workplace conditions are a major driver of psychological distress.
-
-The data suggests that the burden of stress is particularly high among the salaried workforce, who are managing intense professional demands. Ultimately, this dashboard serves as a vital diagnostic tool, highlighting the urgent need for organizational and societal interventions aimed at reducing stress intensity and preventing long-term professional exhaustion in the Costa Rican labor market.
+Los datos sugieren que la carga del estrés es especialmente elevada entre los trabajadores asalariados, que deben hacer frente a intensas exigencias profesionales. En última instancia, este Dashboard sirve como una herramienta de diagnóstico vital, que pone de relieve la urgente necesidad de intervenciones organizativas y sociales destinadas a reducir la intensidad del estrés y prevenir el agotamiento profesional a largo plazo en el mercado laboral costarricense.
